@@ -1,0 +1,243 @@
+{
+  "title": "ASWB Values and Ethics Study Companion",
+  "scope": [
+    {"code": "IA-1", "topic": "Confidentiality, privacy, HIPAA, and limits", "flashcards": 2, "questions": 2},
+    {"code": "IA-3", "topic": "Identifying and resolving ethical dilemmas", "flashcards": 2, "questions": 2},
+    {"code": "IA-4", "topic": "Informed consent as an ongoing process", "flashcards": 2, "questions": 2},
+    {"code": "IB-1", "topic": "Self-determination, capacity, and refusal", "flashcards": 2, "questions": 2},
+    {"code": "IB-2", "topic": "Professional boundaries, conflicts, gifts, and dual relationships", "flashcards": 2, "questions": 1},
+    {"code": "IC-4", "topic": "Accessibility and language access", "flashcards": 2, "questions": 1}
+  ],
+  "flashcards": [
+    {
+      "id": "FC01", "code": "IA-1", "topic": "Confidentiality, privacy, HIPAA, and limits",
+      "objective": "Distinguish privacy, confidentiality, and privilege.",
+      "front": "How would you distinguish privacy, confidentiality, and privilege in an ethics scenario?",
+      "back": "Privacy concerns access to a person or their information. Confidentiality is the professional duty to protect information obtained through services. Privilege is an evidentiary protection governed by law that may allow a client to prevent certain disclosures in legal proceedings. Identify which concept the facts actually involve; they are not interchangeable.",
+      "source": "Appendix, Part I, IA-1, p. 6; Part II, Card 01, p. 23. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.03, 1.07, 1.08; HHS-HIPAA.",
+      "reference_pages": [6, 23],
+      "adapted_from": "Paraphrased from appendix Card 01 and the IA-1 concept lesson."
+    },
+    {
+      "id": "FC02", "code": "IA-1", "topic": "Confidentiality, privacy, HIPAA, and limits",
+      "objective": "Identify safeguards before disclosing client information.",
+      "front": "What should be checked when a request for client information may permit or require disclosure?",
+      "back": "Clarify the request, purpose, consent or other authority, and safety facts. Verify the recipient's identity and authority. If disclosure is justified, share only information directly relevant to the purpose, use a secure method, and document the basis. Consult when authority is unclear and time permits; consultation must not delay urgent protection.",
+      "source": "Appendix, Part I, IA-1, p. 6; Part II, Card 02, p. 23. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.03, 1.07, 3.04; HHS-HIPAA; TECH-2017.",
+      "reference_pages": [6, 23],
+      "adapted_from": "Paraphrased from appendix Card 02 and IA-1, including its urgency qualification."
+    },
+    {
+      "id": "FC03", "code": "IA-3", "topic": "Identifying and resolving ethical dilemmas",
+      "objective": "Recognize an ethical dilemma rather than merely a difficult decision.",
+      "front": "What makes a difficult professional decision an ethical dilemma?",
+      "back": "An ethical dilemma involves competing defensible duties, values, rights, or interests that cannot all be fully satisfied. Difficulty or discomfort alone does not establish a dilemma, and clear misconduct is not made defensible by calling it one. Examine the actual obligations and context.",
+      "source": "Appendix, Part I, IA-3, p. 7; Part II, Card 05, p. 23. Primary anchors named in appendix; not independently checked: NASW-2021, Purpose of the Code, §§1.01, 2.05.",
+      "reference_pages": [7, 23],
+      "adapted_from": "Paraphrased from appendix Card 05 and the IA-3 concept lesson."
+    },
+    {
+      "id": "FC04", "code": "IA-3", "topic": "Identifying and resolving ethical dilemmas",
+      "objective": "Recall a defensible ethical decision process and the role of consultation.",
+      "front": "What steps support a defensible response to an ethical dilemma?",
+      "back": "Define the decision, facts, missing information, and urgency; identify stakeholders and applicable standards; reflect on values, culture, power, and bias; compare options and harms; consult appropriate expertise; decide and document; implement and review. Address immediate safety or time-sensitive duties promptly. Consultation supports judgment but does not transfer responsibility.",
+      "source": "Appendix, ethical reasoning sequence, p. 3; Part I, IA-3, p. 7; Part II, Card 06, p. 23. Primary anchors named in appendix; not independently checked: NASW-2021, Purpose of the Code, §§2.05, 3.01, 4.01; SUP-2013.",
+      "reference_pages": [3, 7, 23],
+      "adapted_from": "Paraphrased from appendix Card 06, expanded with the IA-3 consultation and urgency qualifications."
+    },
+    {
+      "id": "FC05", "code": "IA-4", "topic": "Informed consent as an ongoing process",
+      "objective": "Recognize informed consent as communication, comprehension, and voluntary choice.",
+      "front": "What makes consent meaningful beyond a signature?",
+      "back": "The person receives understandable information, meaningfully comprehends it, and chooses voluntarily with capacity for the decision or through an authorized representative, with client involvement whenever possible. Discuss the service, risks, benefits, alternatives, costs, confidentiality limits, and the right to refuse or withdraw. Revisit consent when relevant circumstances change.",
+      "source": "Appendix, Part I, IA-4, p. 8; Part II, Card 07, p. 23. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.03, 1.14; TECH-2017 §§2.04, 3.01.",
+      "reference_pages": [8, 23],
+      "adapted_from": "Paraphrased from appendix Card 07 and the IA-4 concept lesson."
+    },
+    {
+      "id": "FC06", "code": "IA-4", "topic": "Informed consent as an ongoing process",
+      "objective": "Respond to uncertain comprehension without equating disability or language difference with incapacity.",
+      "front": "What should happen if the client appears not to understand the consent discussion?",
+      "back": "Pause, use accessible language or qualified communication support, invite questions, and check understanding, for example with teach-back. Resolve misunderstandings before proceeding. If capacity remains uncertain, assess it for the specific decision and support autonomy; a disability or limited English proficiency alone does not establish incapacity.",
+      "source": "Appendix, Part I, IA-4, p. 8; Part II, Card 08, p. 24. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.03, 1.14.",
+      "reference_pages": [8, 24],
+      "adapted_from": "Paraphrased from appendix Card 08 with the IA-4 capacity qualification."
+    },
+    {
+      "id": "FC07", "code": "IB-1", "topic": "Self-determination, capacity, and refusal",
+      "objective": "Distinguish professional disagreement from a basis to override a client's choice.",
+      "front": "Does disagreeing with a client's choice establish that the client lacks capacity?",
+      "back": "No. Explore the person's goals, understanding, reasons, and possible coercion, and assess capacity for the particular decision when indicated. Generally respect an informed, voluntary choice within the client's authority, even if it seems unwise. Serious, foreseeable, imminent risk or other lawful authority may justify limits; a diagnosis or disagreement alone does not.",
+      "source": "Appendix, Part I, IB-1, p. 11; Part II, Card 17, p. 25. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.02, 1.03, 1.14.",
+      "reference_pages": [11, 25],
+      "adapted_from": "Paraphrased from appendix Card 17 and the IB-1 concept lesson; not a jurisdiction-specific legal rule."
+    },
+    {
+      "id": "FC08", "code": "IB-1", "topic": "Self-determination, capacity, and refusal",
+      "objective": "Apply the least restrictive principle while preserving effective protection.",
+      "front": "How does the least restrictive principle guide a response to an identified risk?",
+      "back": "Choose a lawful option that addresses the actual risk effectively while limiting autonomy no more than necessary. Consider feasible supports and alternatives before a more restrictive response. Preserve participation and dignity, document the reasoning, and plan follow-up. Least restrictive does not mean ignoring urgent danger.",
+      "source": "Appendix, Part I, IB-1, p. 11; Part II, Card 18, p. 25. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.02, 1.03, 1.14.",
+      "reference_pages": [11, 25],
+      "adapted_from": "Paraphrased from appendix Card 18 with qualifications from the IB-1 concept lesson."
+    },
+    {
+      "id": "FC09", "code": "IB-2", "topic": "Professional boundaries, conflicts, gifts, and dual relationships",
+      "objective": "Assess gifts contextually without a blanket acceptance or refusal rule.",
+      "front": "Which factors should be considered before accepting a client gift?",
+      "back": "Consider meaning and culture, value, timing, power, client benefit or harm, agency policy, alternatives, and the risk of obligation, favoritism, exploitation, or impaired judgment. Assess the relationship and treatment impact, seek consultation when needed, and document safeguards. Neither accepting every gift nor rejecting every gift is an adequate contextual analysis.",
+      "source": "Appendix, Part I, IB-2, pp. 11–12; Part II, Card 19, p. 25. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.06, 1.13; SUP-2013.",
+      "reference_pages": [11, 12, 25],
+      "adapted_from": "Adapted from appendix Card 19. Changed its 'five factors' prompt to 'Which factors' because its answer lists more than five."
+    },
+    {
+      "id": "FC10", "code": "IB-2", "topic": "Professional boundaries, conflicts, gifts, and dual relationships",
+      "objective": "Evaluate self-disclosure through client benefit and professional boundaries.",
+      "front": "When is a social worker's personal self-disclosure most defensible?",
+      "back": "When it has a clear purpose, is brief and clinically relevant, is proportionate, and is likely to benefit the client. Consider timing, power, alternatives, and possible harm. Disclosure should not shift care toward the worker, meet the worker's emotional needs, or simply relieve the worker's discomfort.",
+      "source": "Appendix, Part I, IB-2, pp. 11–12; Part II, Card 20, p. 25. Primary anchors named in appendix; not independently checked: NASW-2021 §1.06; SUP-2013.",
+      "reference_pages": [11, 12, 25],
+      "adapted_from": "Paraphrased from appendix Card 20 and IB-2 study points and common traps."
+    },
+    {
+      "id": "FC11", "code": "IC-4", "topic": "Accessibility and language access",
+      "objective": "Explain how accessibility enables consent and equitable participation.",
+      "front": "Why is accessibility part of meaningful informed consent?",
+      "back": "A person needs information in a form and language they can understand and use to make an informed, voluntary choice. Ask about preferred communication and accommodations; provide suitable formats, time, and support. Identical treatment does not necessarily provide equitable access, and access needs do not themselves establish incapacity.",
+      "source": "Appendix, Part I, IC-4, p. 19; Part II, Card 45, p. 28. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.03(b), 1.05; CULT-2015; TECH-2017.",
+      "reference_pages": [19, 28],
+      "adapted_from": "Paraphrased from appendix Card 45 and the IC-4 concept lesson."
+    },
+    {
+      "id": "FC12", "code": "IC-4", "topic": "Accessibility and language access",
+      "objective": "Identify the reasons for qualified interpretation in sensitive service decisions.",
+      "front": "Why prefer a qualified interpreter to relying on a family member for a sensitive service discussion?",
+      "back": "Qualified interpretation supports accuracy, confidentiality, neutrality, role clarity, and client control. A relative may be convenient but may introduce conflicts, pressure, or communication errors. Ask about the client's preferred access method and arrange appropriate support; do not assume spoken English proficiency guarantees understanding.",
+      "source": "Appendix, Part I, IC-4, p. 19; Part II, Card 46, p. 28. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.03(b), 1.05; CULT-2015.",
+      "reference_pages": [19, 28],
+      "adapted_from": "Paraphrased from appendix Card 46 and IC-4 study points and common traps."
+    }
+  ],
+  "questions": [
+    {
+      "id": "MCQ01", "code": "IA-1", "topic": "Confidentiality, privacy, HIPAA, and limits",
+      "objective": "Limit an authorized disclosure to its established scope and purpose.",
+      "prompt": "An adult client has authorized a social worker to send an attendance summary to a vocational counselor. The counselor asks for the client's full therapy history instead. No urgent safety concern or additional disclosure authority has been identified. What should the social worker do NEXT?",
+      "qualifier": "NEXT",
+      "options": {"A": "Send the full history because the recipient is another helping professional.", "B": "Clarify the request and authorization, and limit any disclosure to its authorized purpose and scope.", "C": "Refuse all communication because confidentiality prevents sharing any information with another provider."},
+      "answer": "B",
+      "rationales": {"A": "A professional role alone does not establish authority for the requested information. The request exceeds the stated attendance authorization.", "B": "This preserves confidentiality while clarifying authority and purpose. The appendix supports focused, authorized disclosure rather than automatically releasing a full record.", "C": "This is overbroad. The facts include an authorization for a limited disclosure; confidentiality does not prohibit every appropriately authorized exchange."},
+      "source": "Appendix, Part I, IA-1, p. 6, study points and exam reasoning. Primary anchors named in appendix; not independently checked: NASW-2021 §1.07; HHS-HIPAA.",
+      "reference_pages": [6],
+      "adapted_from": "Original fictional scenario applying IA-1 authorization and focused-disclosure principles; not an appendix question or recalled exam item."
+    },
+    {
+      "id": "MCQ02", "code": "IA-1", "topic": "Confidentiality, privacy, HIPAA, and limits",
+      "objective": "Recognize that HIPAA is not the source of every confidentiality duty.",
+      "prompt": "A community program manager says, 'Our program is not covered by HIPAA, so staff can freely discuss identifiable client information with volunteers.' The social worker has not established the volunteers' authority or the purpose of disclosure. Which response is BEST?",
+      "qualifier": "BEST",
+      "options": {"A": "Check ethical duties and other applicable requirements, and establish a valid basis before disclosing information.", "B": "Accept the manager's reasoning because confidentiality duties apply only when HIPAA applies.", "C": "Tell the manager that HIPAA necessarily applies to every social worker in every setting."},
+      "answer": "A",
+      "rationales": {"A": "The appendix distinguishes HIPAA coverage from broader confidentiality duties. Authority, purpose, ethical standards, and other applicable requirements must be considered before disclosure.", "B": "This incorrectly treats HIPAA as the only source of confidentiality obligations. Ethical duties and other laws, contracts, or policies may also matter.", "C": "This replaces one unsupported generalization with another. The appendix explicitly cautions against assuming universal HIPAA coverage."},
+      "source": "Appendix, Part I, IA-1, p. 6, opening explanation and common traps. Primary anchors named in appendix; not independently checked: NASW-2021 §1.07; HHS-HIPAA.",
+      "reference_pages": [6],
+      "adapted_from": "Original fictional scenario applying the IA-1 distinction between HIPAA and other confidentiality duties."
+    },
+    {
+      "id": "MCQ03", "code": "IA-3", "topic": "Identifying and resolving ethical dilemmas",
+      "objective": "Define the ethical question and missing facts before selecting an intervention.",
+      "prompt": "A social worker feels torn between a client's stated preference and a service team's proposed plan. There is no immediate danger or time-sensitive duty, and the worker has not clarified the client's reasons, the competing obligations, or what authority the team has. What is the BEST next step?",
+      "qualifier": "BEST",
+      "options": {"A": "Implement the team plan because a group decision settles the ethical issue.", "B": "Ask a supervisor to choose a plan without first identifying the conflict or missing facts.", "C": "Clarify the decision, relevant facts, roles, stakeholders, and competing obligations before comparing options."},
+      "answer": "C",
+      "rationales": {"A": "Team agreement does not replace examination of client rights, authority, standards, and context. This selects an intervention before essential facts are clear.", "B": "Consultation can help, but the appendix warns against consulting before identifying the actual question. An unexplained request to choose a plan also treats consultation as a substitute for judgment.", "C": "Defining the decision and gathering missing facts are appropriate here because the scenario excludes immediate danger and time-sensitive duties. The clarified issue can then guide comparison and consultation."},
+      "source": "Appendix, Part I, IA-3, p. 7, study points, exam reasoning, and common traps. Primary anchors named in appendix; not independently checked: NASW-2021, Purpose of the Code, §§1.01, 2.05.",
+      "reference_pages": [7],
+      "adapted_from": "Original fictional scenario applying the IA-3 fact-gathering and role-clarification process."
+    },
+    {
+      "id": "MCQ04", "code": "IA-3", "topic": "Identifying and resolving ethical dilemmas",
+      "objective": "Integrate consultation with accountable decision making, documentation, and follow-up.",
+      "prompt": "A social worker has clarified an ethical conflict, identified applicable standards, compared two defensible options, and obtained relevant consultation. No emergency requires a different sequence. Which next action BEST completes the decision process?",
+      "qualifier": "BEST",
+      "options": {"A": "Record only that a consultant approved the decision, because responsibility now belongs to the consultant.", "B": "Make and document a reasoned decision, implement it proportionately, and review its effects as facts develop.", "C": "Keep seeking opinions indefinitely so the worker never has to choose between competing duties."},
+      "answer": "B",
+      "rationales": {"A": "Consultation supports judgment but does not transfer responsibility. A useful record includes material facts, standards, alternatives, reasoning, and follow-up, not approval alone.", "B": "The appendix's process continues from consultation to a documented decision, implementation, and review. Review allows repair or revision if effects or facts change.", "C": "Additional consultation can be appropriate when a material uncertainty remains, but indefinite avoidance does not complete the worker's responsibility to decide and act."},
+      "source": "Appendix, ethical reasoning sequence, p. 3; Part I, IA-3, p. 7, study points and exam reasoning. Primary anchors named in appendix; not independently checked: NASW-2021, Purpose of the Code, §§2.05, 3.01; SUP-2013.",
+      "reference_pages": [3, 7],
+      "adapted_from": "Original application question based on the appendix's ethical reasoning sequence and IA-3."
+    },
+    {
+      "id": "MCQ05", "code": "IA-4", "topic": "Informed consent as an ongoing process",
+      "objective": "Revisit consent when participants or service arrangements change.",
+      "prompt": "A client consented to individual counseling. The social worker now proposes inviting a trainee to observe the next session. The client has not yet received information about this change, and there is time to discuss it before the session. What should the social worker do FIRST?",
+      "qualifier": "FIRST",
+      "options": {"A": "Explain the proposed change, relevant risks and alternatives, and the client's choices; check understanding and obtain updated consent before proceeding.", "B": "Bring the trainee because the original counseling consent automatically covers any additional participant.", "C": "Ask the trainee to stay silent, since observation without speaking does not change the consent discussion."},
+      "answer": "A",
+      "rationales": {"A": "Consent is an ongoing communication process. The appendix specifically calls for revisiting consent when participants change and documenting relevant decisions.", "B": "This assumes authority beyond the information given. The original consent does not establish that the client understood and agreed to the new participant.", "C": "The trainee's silence does not resolve the change in participants or its privacy implications. The client still needs an informed, voluntary choice."},
+      "source": "Appendix, Part I, IA-4, p. 8, opening explanation, study points, and common traps. Primary anchors named in appendix; not independently checked: NASW-2021 §1.03.",
+      "reference_pages": [8],
+      "adapted_from": "Original fictional scenario applying IA-4's requirement to revisit consent when participants change."
+    },
+    {
+      "id": "MCQ06", "code": "IA-4", "topic": "Informed consent as an ongoing process",
+      "objective": "Use meaningful comprehension checks rather than relying on a signed form.",
+      "prompt": "After signing a consent form, a client explains that counseling has no fees and that confidentiality has no limits. Both statements conflict with the information just discussed. No urgent intervention is needed. What should the social worker do NEXT?",
+      "qualifier": "NEXT",
+      "options": {"A": "Continue because the signed form proves informed consent.", "B": "Conclude that the client lacks decision-making capacity solely because the information was misunderstood.", "C": "Pause, explain the misunderstood information in an accessible way, invite questions, and check understanding again."},
+      "answer": "C",
+      "rationales": {"A": "A signature alone does not establish comprehension. The client's explanation supplies direct evidence that important information remains misunderstood.", "B": "Misunderstanding requires attention, but it does not by itself establish incapacity. Improve communication and assess understanding; assess capacity for the specific decision if uncertainty remains.", "C": "This responds to the demonstrated gaps in understanding and treats consent as communication and voluntary choice. The appendix recommends accessible explanation and teach-back before proceeding."},
+      "source": "Appendix, Part I, IA-4, p. 8; Part II, Card 08, p. 24. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.03, 1.14.",
+      "reference_pages": [8, 24],
+      "adapted_from": "Original fictional scenario applying IA-4 and Card 08; not a reproduction of appendix Question 04."
+    },
+    {
+      "id": "MCQ07", "code": "IB-1", "topic": "Self-determination, capacity, and refusal",
+      "objective": "Explore informed refusal without equating disagreement with incapacity.",
+      "prompt": "An adult client declines an optional employment workshop that the social worker recommends. There is no immediate safety concern, and nothing currently suggests impaired decision-making capacity. The worker has not asked why the client declined. What should the worker do FIRST?",
+      "qualifier": "FIRST",
+      "options": {"A": "Enroll the client anyway because the workshop is likely to help.", "B": "Explore the client's reasons, goals, understanding, and alternatives without pressuring participation.", "C": "Record the refusal as proof that the client cannot make service decisions."},
+      "answer": "B",
+      "rationales": {"A": "Expected benefit alone does not justify overriding an optional choice. The facts provide no established authority or safety basis for coercion.", "B": "Exploring goals and reasons supports informed, voluntary self-determination. The appendix directs engagement and clarification before persuasion or intervention when immediate danger is absent.", "C": "Refusal or disagreement alone is not evidence of incapacity. Capacity concerns must relate to the particular decision and relevant facts."},
+      "source": "Appendix, Part I, IB-1, p. 11; Part II, Card 17, p. 25. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.02, 1.03, 1.14.",
+      "reference_pages": [11, 25],
+      "adapted_from": "Original fictional scenario applying IB-1 informed-refusal principles; not a medication or placement scenario from the appendix."
+    },
+    {
+      "id": "MCQ08", "code": "IB-1", "topic": "Self-determination, capacity, and refusal",
+      "objective": "Support decision-specific capacity and the least restrictive approach.",
+      "prompt": "A client with a cognitive diagnosis is choosing between two community support services. The client communicates a preference but needs information in smaller steps to compare consequences. There is no immediate danger. Which approach is BEST?",
+      "qualifier": "BEST",
+      "options": {"A": "Provide decision supports and assess understanding and capacity for this choice while preserving the client's participation.", "B": "Exclude the client from the decision because the diagnosis settles capacity for every choice.", "C": "Assume that stating a preference removes any need to assess understanding of the options."},
+      "answer": "A",
+      "rationales": {"A": "Capacity is decision-specific and should be supported with feasible, less restrictive measures. This approach addresses the actual communication and understanding needs without automatically removing choice.", "B": "The appendix cautions against equating diagnosis with incapacity. The relevant question concerns this decision and the supports that may enable it.", "C": "Preserving choice also requires attention to whether the decision is informed and voluntary. A stated preference alone does not resolve the identified need to understand consequences."},
+      "source": "Appendix, Part I, IB-1, p. 11, study points and common traps; supporting consent discussion, IA-4, p. 8. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.02, 1.03, 1.14.",
+      "reference_pages": [11, 8],
+      "adapted_from": "Original fictional scenario applying IB-1 supported, decision-specific capacity principles."
+    },
+    {
+      "id": "MCQ09", "code": "IB-2", "topic": "Professional boundaries, conflicts, gifts, and dual relationships",
+      "objective": "Evaluate proposed self-disclosure by purpose and client benefit.",
+      "prompt": "While a client discusses loneliness, a social worker feels an urge to describe a recent personal breakup. The worker recognizes wanting reassurance and has not identified a clinical benefit to the client. What is the BEST response?",
+      "qualifier": "BEST",
+      "options": {"A": "Share the full story because any personal disclosure strengthens the relationship.", "B": "Ask the client to reassure the worker before returning to the client's concerns.", "C": "Keep the focus on the client and examine the urge through appropriate reflection or consultation before considering any purposeful disclosure."},
+      "answer": "C",
+      "rationales": {"A": "This assumes benefit without examining purpose, timing, proportion, power, or harm. The facts instead identify the worker's need for reassurance.", "B": "This reverses the helping focus and uses the client to meet the worker's emotional needs, a boundary problem identified by the appendix.", "C": "The appendix supports self-disclosure only for a clear, proportionate client benefit. Reflection or consultation can address the worker's needs without placing that burden on the client."},
+      "source": "Appendix, Part I, IB-2, pp. 11–12, study points and common traps; Part II, Card 20, p. 25. Primary anchors named in appendix; not independently checked: NASW-2021 §1.06; SUP-2013.",
+      "reference_pages": [11, 12, 25],
+      "adapted_from": "Original fictional scenario applying IB-2 and Card 20 on client-centered self-disclosure."
+    },
+    {
+      "id": "MCQ10", "code": "IC-4", "topic": "Accessibility and language access",
+      "objective": "Respond to access barriers through client-preferred accommodations rather than assumptions.",
+      "prompt": "During a nonurgent service-planning meeting, a client says the noisy room and rapidly presented instructions make it hard to participate. The client requests a quieter setting and written steps. What should the social worker do NEXT?",
+      "qualifier": "NEXT",
+      "options": {"A": "Keep the same process because giving everyone identical conditions is always equitable.", "B": "Discuss and arrange appropriate access supports, including the requested setting and format where feasible, then check whether participation improves.", "C": "Ask someone else to decide for the client because requesting accommodations demonstrates incapacity."},
+      "answer": "B",
+      "rationales": {"A": "Identical conditions may preserve a barrier. The appendix distinguishes equal treatment from equitable access and calls for attention to sensory and communication needs.", "B": "This responds to the client's expressed preferences and supports meaningful participation. Accessible formats, adequate time, and suitable accommodations are part of ethical access.", "C": "Access needs do not establish incapacity. The appendix warns against equating difference with incapacity or deficit and supports the client's participation."},
+      "source": "Appendix, Part I, IC-4, p. 19, explanation and study points; Part II, Card 45, p. 28. Primary anchors named in appendix; not independently checked: NASW-2021 §§1.03(b), 1.05; CULT-2015.",
+      "reference_pages": [19, 28],
+      "adapted_from": "Original fictional scenario applying IC-4 sensory and communication accessibility principles."
+    }
+  ]
+}
